@@ -10,7 +10,7 @@ Section: Entertainment
 MD5sum:11ddf5a1c7ed786e6aff9d41592206d5
 SHA1sum:4ff9d040c3359544a738210c649edbfb37e5e899
 SHA256sum:1b080c32dad2a077938206c872e1fe46a993d4be728cc176b827509dd4d83217
-Filename: /CartoonsV2HD.deb
+Filename: /CartoonsV2HD
 
 Package: com.TweakAndHacks.controlpanel
 Name: controlpanel
