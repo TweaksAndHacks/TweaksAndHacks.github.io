@@ -12,17 +12,17 @@ SHA1sum:
 SHA256sum:
 Filename: debs//(Tweak Name).deb
 
-Package: (com.yourname.packagename)
-Name: Test 
-Version: (Version Number)
-Size: (Size in Bytes)
+Package: com.TweakAndHacks.controlpanel
+Name: controlpanel
+Version: 1.0
+Size: 45569
 Architecture: iphoneos-arm
-Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
+Description: Test Tweak for repo
+Maintainer: TweaksAndHacks <vgcman@aol.com>
+Author: TweakAndHacks <email@provider.com>
 Section: Tweaks
-MD5sum:
-SHA1sum:
-SHA256sum:
-Filename: debs//(Tweak Name).deb
+MD5sum:e192eccfd1cf6a893303febdc50cd0ab
+SHA1sum:9f17e3e3e78b68ce9c5b597cc94aa983ba48e100
+SHA256sum:99e0b9f89dd1f6e6ba0bb6e38d28fee1eb8006967a8e244beeb662a38cab0c1a
+Filename: /controlpanel,deb
 
