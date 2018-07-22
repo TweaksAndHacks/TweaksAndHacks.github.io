@@ -1,15 +1,15 @@
 Package: com.TweakAndHacks.CartoonsV2HD
 Name: CartoonsV2HD
 Version: 2.0.2
-Size: 8,423,224
+Size: 3126816
 Architecture: iphoneos-arm
 Description: Watch Cartoons in HD
 Maintainer: TweaksAndHacks <vgcman@aol.com>
 Author: TweakAndHacks <vgcman@aol.com>
 Section: Entertainment
-MD5sum:e192eccfd1cf6a893303febdc50cd0ab
-SHA1sum:9f17e3e3e78b68ce9c5b597cc94aa983ba48e100
-SHA256sum:99e0b9f89dd1f6e6ba0bb6e38d28fee1eb8006967a8e244beeb662a38cab0c1a
+MD5sum:11ddf5a1c7ed786e6aff9d41592206d5
+SHA1sum:4ff9d040c3359544a738210c649edbfb37e5e899
+SHA256sum:1b080c32dad2a077938206c872e1fe46a993d4be728cc176b827509dd4d83217
 Filename: /CartoonsV2HD.deb
 
 Package: com.TweakAndHacks.controlpanel
