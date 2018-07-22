@@ -12,7 +12,7 @@ SHA1sum:b7ff0eb41154180c90c3287058acc97ddfdd993c
 SHA256sum:6e81ab7ffb0a1029bcdb518da120b6970fdc84cc8703cf4355809d6484209e6b
 Filename: /CartoonsV2HD.deb
 
-Package: com.TweakAndHacks.Audicy
+Package: com.TweakAndHacks.Audicy.deb
 Name: Audicy
 Version: 1.0.6
 Size: 26266568
