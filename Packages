@@ -12,17 +12,17 @@ SHA1sum:b7ff0eb41154180c90c3287058acc97ddfdd993c
 SHA256sum:6e81ab7ffb0a1029bcdb518da120b6970fdc84cc8703cf4355809d6484209e6b
 Filename: /CartoonsV2HD.deb
 
-Package: com.TweakAndHacks.controlpanel
-Name: controlpanel
-Version: 1.0
-Size: 45569
+Package: com.TweakAndHacks.Audicy
+Name: Audicy
+Version: 1.0.6
+Size: 26266568
 Architecture: iphoneos-arm
 Description: Test Tweak for repo
 Maintainer: TweaksAndHacks <vgcman@aol.com>
-Author: TweakAndHacks <email@provider.com>
+Author: TweakAndHacks <vgcman@aol.com>
 Section: Tweaks
-MD5sum:e192eccfd1cf6a893303febdc50cd0ab
-SHA1sum:9f17e3e3e78b68ce9c5b597cc94aa983ba48e100
-SHA256sum:99e0b9f89dd1f6e6ba0bb6e38d28fee1eb8006967a8e244beeb662a38cab0c1a
-Filename: /controlpanel.deb
+MD5sum:08c8be5be08e8bbc484aeed2417f4ede
+SHA1sum:83f63d009d8a08f9f34aae941a973ea6ed5fb310
+SHA256sum:e9d71af23727988aed53458ebc7c6c114ec6566ae258efdab09d65693e578563
+Filename: /Audicy.deb
 
