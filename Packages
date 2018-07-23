@@ -29,14 +29,14 @@ Filename: /Audicy.deb
 Package: com.TweakAndHacks.MovieBox4.deb
 Name: MovieBox4
 Version: 4.0.5
-Size: 16355722
+Size: 16355718
 Architecture: iphoneos-arm
-Description: Stream Movie And More
+Description: Stream Movie And TV
 Maintainer: TweaksAndHacks <vgcman@aol.com>
 Author: TweakAndHacks <vgcman@aol.com>
 Section: Entertainment
-MD5sum:bcdcebbaf2e45d9d830874a6bba6c4ff
-SHA1sum:1dba1f6f07dede5c9648292306719c3979235f2d
-SHA256sum:1687d778237689371774bb99a2d39accd29c86740fbf41f74bb501e0fc271ad7
+MD5sum:56b1d38289fb50ac7cce250f694c0eb5
+SHA1sum:53126d37657f5662ccf5061c5b05bd3a46e4c9b4
+SHA256sum:d30ae4a5c5f782db2b4136f599b63918b3c9ae038e7608c29fa3c375eda1a751
 Filename: /MovieBox4.deb
 
