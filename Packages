@@ -1,0 +1,42 @@
+Package: com.TweaksAndHacks.CartoonsV2HD.deb
+Name: CartoonsV2HD
+Version: 2.0.2
+Size: 2306810
+Architecture: iphoneos-arm
+Description: Cartoons and more
+Maintainer: TweaksAndHacks <vgcman@aol.com>
+Author: TweakAndHacks <vgcman@aol.com>
+Section: Entertainment
+MD5sum:c1d793f236087e246ade5c2e31e62409
+SHA1sum:2e63019a0056213f4d171148649fd69ed85f1f9a
+SHA256sum:d7e87052a108b8fcc2fc6e93ff537640cdea9b106b3b378b1aaa084f8e5117a8
+Filename: /CartoonsV2HD.deb
+
+Package: com.TweakAndHacks.Audicy.deb
+Name: Audicy
+Version: 1.0.6
+Size: 26266568
+Architecture: iphoneos-arm
+Description: Audicy
+Maintainer: TweaksAndHacks <vgcman@aol.com>
+Author: TweakAndHacks <vgcman@aol.com>
+Section: Tweaks
+MD5sum:08c8be5be08e8bbc484aeed2417f4ede
+SHA1sum:83f63d009d8a08f9f34aae941a973ea6ed5fb310
+SHA256sum:e9d71af23727988aed53458ebc7c6c114ec6566ae258efdab09d65693e578563
+Filename: /Audicy.deb
+
+Package: com.TweakAndHacks.MovieBox4.deb
+Name: MovieBox4
+Version: 4.0.5
+Size: 16333102
+Architecture: iphoneos-arm
+Description: Watch Movies and tv
+Maintainer: TweaksAndHacks <vgcman@aol.com>
+Author: TweakAndHacks <vgcman@aol.com>
+Section: Entertainment
+MD5sum:46ab1af0b2b7300c25902d68750cd790
+SHA1sum:75d7fecdba3fcffc68e93380ecd8ed54bdd7a8a1
+SHA256sum:a830b25336aebc09681c2206fe9cdbdd04e713da04e0fe31cd87926961f9c975
+Filename: /MovieBox4.deb
+
