@@ -1,0 +1,10 @@
+Architecture: iphoneos-arm
+Author: TweaksAndHacks <>
+Depiction: 
+Description: Free movies and TV-shows
+Homepage: TweaksAndHacks.github.io
+Name: CartoonsV2HD
+Package: com.TweaksAndHacks.CartoonsV2HD.deb
+Section: Entertainment
+Sponsor: TweaksAndHacks <TweakAndHacks.CartoonsV2HD.deb>
+Version: 2.0.2
