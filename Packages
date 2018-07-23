@@ -26,3 +26,17 @@ SHA1sum:83f63d009d8a08f9f34aae941a973ea6ed5fb310
 SHA256sum:e9d71af23727988aed53458ebc7c6c114ec6566ae258efdab09d65693e578563
 Filename: /Audicy.deb
 
+Package: com.TweakAndHacks.MovieBox4.deb
+Name: MovieBox4
+Version: 4.0.5
+Size: 26266568
+Architecture: iphoneos-arm
+Description: Watch Movies and tv
+Maintainer: TweaksAndHacks <vgcman@aol.com>
+Author: TweakAndHacks <vgcman@aol.com>
+Section: Tweaks
+MD5sum:46ab1af0b2b7300c25902d68750cd790
+SHA1sum:75d7fecdba3fcffc68e93380ecd8ed54bdd7a8a1
+SHA256sum:a830b25336aebc09681c2206fe9cdbdd04e713da04e0fe31cd87926961f9c975
+Filename: /Audicy.deb
+
