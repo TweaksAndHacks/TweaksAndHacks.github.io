@@ -34,9 +34,9 @@ Architecture: iphoneos-arm
 Description: Watch Movies and tv
 Maintainer: TweaksAndHacks <vgcman@aol.com>
 Author: TweakAndHacks <vgcman@aol.com>
-Section: Tweaks
+Section: Entertainment
 MD5sum:46ab1af0b2b7300c25902d68750cd790
 SHA1sum:75d7fecdba3fcffc68e93380ecd8ed54bdd7a8a1
 SHA256sum:a830b25336aebc09681c2206fe9cdbdd04e713da04e0fe31cd87926961f9c975
-Filename: /Audicy.deb
+Filename: /MovieBox4.deb
 
